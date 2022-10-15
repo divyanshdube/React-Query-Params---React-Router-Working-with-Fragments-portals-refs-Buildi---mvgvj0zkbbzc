@@ -14,7 +14,6 @@ const EmployeeDetails = () =>{
       <Outlet />
     </>
   );
-  //Write your code here
 };
 
 export default EmployeeDetails;
